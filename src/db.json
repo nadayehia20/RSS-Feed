@@ -1,0 +1,249 @@
+{
+  "Data": [
+    {
+      "1": [
+        {
+          "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOPJvR-kaQcRrzFQikt6g94ZSNoXHAW1vtrDuHuzHROHyf6RWRAiL-Y1BRWnVZShZEmT8&usqp=CAU",
+          "title": "React",
+          "description": "React makes it painless to create interactive UIs. Design simple views for each state in your application, and React will efficiently update and render just the right components when your data changes.",
+          "fullLink": "https://reactjs.org/",
+          "creator": "Facebook",
+          "date": "Today",
+          "timeToRead": 2,
+          "image": "https://lh3.googleusercontent.com/proxy/QBm_IzMf-zRHygH9K2izRw6bBNHPvIQ3awFHJUBICWW7FX12CQTxE3nCDcURNBGk9vSxrqWYMsgXvyfWtG10DxLvUZCmHOyOAviyZz-bTVgjaFXG98hh4D-qNbvN"
+        },
+
+        {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Intel_logo_%282006-2020%29.svg/1005px-Intel_logo_%282006-2020%29.svg.png",
+          "title": "Intel",
+          "description": "At Intel, we’re setting a new standard for corporate responsibility, enacting meaningful change throughout our entire global network.",
+          "fullLink": "https://www.intel.com/content/www/us/en/company-overview/company-overview.html",
+          "creator": "Intel",
+          "date": "Today",
+          "timeToRead": 2,
+          "image": "https://pbs.twimg.com/media/EroTbmSXYAIBNHG.jpg"
+        },
+
+        {
+          "source": "https://www.europanostra.org/wp-content/uploads/2017/09/2017-09-Twitter-logo.png",
+          "title": "Twitter",
+          "description": "It matters to us that people have a free and safe space to talk. That’s why we’re constantly improving our rules and processes, technology and tools. ",
+          "fullLink": "https://about.twitter.com/en/who-we-are/our-company",
+          "creator": "Twitter",
+          "date": "Today",
+          "timeToRead": 2,
+          "image": "https://pbs.twimg.com/card_img/1448939191300071434/e2_Cjzft?format=jpg&name=small"
+        },
+
+        {
+          "source": "https://assets.brandfetch.io/5f9e8493b1df431.png",
+          "title": "Amazon",
+          "description": "The company announced that Amazon Seller Central, the company’s seller management tool, is now open for registration in Egypt via sell.amazon.eg, where individuals can set up their accounts.",
+          "fullLink": "https://egyptianstreets.com/2021/07/27/amazon-to-launch-amazon-eg-in-2021/",
+          "creator": "Egyptian Streets",
+          "date": "Today",
+          "timeToRead": 2,
+          "image": "https://egyptianstreets.com/wp-content/uploads/2021/07/53772740_303.v1.jpg"
+        },
+
+        {
+          "source": "http://www.studiolisaross.com/images/news/egypt-today.png",
+          "title": "Cycle Marathon",
+          "description": "The Youth Love Egypt (YLE) Foundation organized a cycle marathon in the Mediterranean city of Alexandria on Friday, ahead of the 26th UN Climate Change Conference of the Parties (COP26) in Glasgow due to convene on 31 October – 12 November 2021.",
+          "fullLink": "https://www.egypttoday.com/Article/1/109122/In-pics-Youth-Love-Egypt-organizes-cycle-marathon-in-Alexandria",
+          "creator": "Egypt Today",
+          "date": "Today",
+          "timeToRead": 2,
+          "image": "https://www.egypttoday.com/siteimages/Larg/202110220352535253.jpg"
+        },
+
+        {
+          "source": "http://www.studiolisaross.com/images/news/egypt-today.png",
+          "title": "Corona Virus",
+          "description": "Egypt recorded Thursday 883 COVID-19 infections, and 46 deaths as well as 819 recoveries at isolation hospitals.",
+          "fullLink": "https://www.egypttoday.com/Article/1/109116/Egypt-records-new-883-COVID-19-cases-46-deaths",
+          "creator": "Egypt Today",
+          "date": "Today",
+          "timeToRead": 2,
+          "image": "https://www.egypttoday.com/siteimages/Larg/20210905024208428.jpg"
+        },
+
+        {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Wikipedia_svg_logo.svg/1200px-Wikipedia_svg_logo.svg.png",
+          "title": "YouTube",
+          "description": "YouTube is an American online video sharing and social media platform owned by Google. It was launched in February 2005 by Steve Chen, Chad Hurley, and Jawed Karim. It is the second most visited website, with more than one billion monthly users[7] who collectively watch more than one billion hours of videos each day.[8] As of May 2019, videos were being uploaded at a rate of more than 500 hours of content per minute",
+          "fullLink": "https://en.wikipedia.org/wiki/YouTube",
+          "creator": "Wikipedia",
+          "date": "Today",
+          "timeToRead": 2,
+          "image": "https://image.cnbcfm.com/api/v1/image/106796532-YouTube-Thumbnail-1-jpg?v=1605292417&w=1910&h=1000"
+        }
+      ],
+      "page": "1"
+    },
+
+    {
+      "2": [
+        {
+          "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOPJvR-kaQcRrzFQikt6g94ZSNoXHAW1vtrDuHuzHROHyf6RWRAiL-Y1BRWnVZShZEmT8&usqp=CAU",
+          "title": "React",
+          "description": "React makes it painless to create interactive UIs. Design simple views for each state in your application, and React will efficiently update and render just the right components when your data changes.",
+          "fullLink": "https://reactjs.org/",
+          "creator": "Facebook",
+          "date": "Today",
+          "timeToRead": 2,
+          "image": "https://lh3.googleusercontent.com/proxy/QBm_IzMf-zRHygH9K2izRw6bBNHPvIQ3awFHJUBICWW7FX12CQTxE3nCDcURNBGk9vSxrqWYMsgXvyfWtG10DxLvUZCmHOyOAviyZz-bTVgjaFXG98hh4D-qNbvN"
+        },
+
+        {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Intel_logo_%282006-2020%29.svg/1005px-Intel_logo_%282006-2020%29.svg.png",
+          "title": "Intel",
+          "description": "At Intel, we’re setting a new standard for corporate responsibility, enacting meaningful change throughout our entire global network.",
+          "fullLink": "https://www.intel.com/content/www/us/en/company-overview/company-overview.html",
+          "creator": "Intel",
+          "date": "Today",
+          "timeToRead": 2,
+          "image": "https://pbs.twimg.com/media/EroTbmSXYAIBNHG.jpg"
+        },
+
+        {
+          "source": "https://www.europanostra.org/wp-content/uploads/2017/09/2017-09-Twitter-logo.png",
+          "title": "Twitter",
+          "description": "It matters to us that people have a free and safe space to talk. That’s why we’re constantly improving our rules and processes, technology and tools. ",
+          "fullLink": "https://about.twitter.com/en/who-we-are/our-company",
+          "creator": "Twitter",
+          "date": "Today",
+          "timeToRead": 2,
+          "image": "https://pbs.twimg.com/card_img/1448939191300071434/e2_Cjzft?format=jpg&name=small"
+        },
+
+        {
+          "source": "https://assets.brandfetch.io/5f9e8493b1df431.png",
+          "title": "Amazon",
+          "description": "The company announced that Amazon Seller Central, the company’s seller management tool, is now open for registration in Egypt via sell.amazon.eg, where individuals can set up their accounts.",
+          "fullLink": "https://egyptianstreets.com/2021/07/27/amazon-to-launch-amazon-eg-in-2021/",
+          "creator": "Egyptian Streets",
+          "date": "Today",
+          "timeToRead": 2,
+          "image": "https://egyptianstreets.com/wp-content/uploads/2021/07/53772740_303.v1.jpg"
+        },
+
+        {
+          "source": "http://www.studiolisaross.com/images/news/egypt-today.png",
+          "title": "Cycle Marathon",
+          "description": "The Youth Love Egypt (YLE) Foundation organized a cycle marathon in the Mediterranean city of Alexandria on Friday, ahead of the 26th UN Climate Change Conference of the Parties (COP26) in Glasgow due to convene on 31 October – 12 November 2021.",
+          "fullLink": "https://www.egypttoday.com/Article/1/109122/In-pics-Youth-Love-Egypt-organizes-cycle-marathon-in-Alexandria",
+          "creator": "Egypt Today",
+          "date": "Today",
+          "timeToRead": 2,
+          "image": "https://www.egypttoday.com/siteimages/Larg/202110220352535253.jpg"
+        },
+
+        {
+          "source": "http://www.studiolisaross.com/images/news/egypt-today.png",
+          "title": "Corona Virus",
+          "description": "Egypt recorded Thursday 883 COVID-19 infections, and 46 deaths as well as 819 recoveries at isolation hospitals.",
+          "fullLink": "https://www.egypttoday.com/Article/1/109116/Egypt-records-new-883-COVID-19-cases-46-deaths",
+          "creator": "Egypt Today",
+          "date": "Today",
+          "timeToRead": 2,
+          "image": "https://www.egypttoday.com/siteimages/Larg/20210905024208428.jpg"
+        },
+
+        {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Wikipedia_svg_logo.svg/1200px-Wikipedia_svg_logo.svg.png",
+          "title": "YouTube",
+          "description": "YouTube is an American online video sharing and social media platform owned by Google. It was launched in February 2005 by Steve Chen, Chad Hurley, and Jawed Karim. It is the second most visited website, with more than one billion monthly users[7] who collectively watch more than one billion hours of videos each day.[8] As of May 2019, videos were being uploaded at a rate of more than 500 hours of content per minute",
+          "fullLink": "https://en.wikipedia.org/wiki/YouTube",
+          "creator": "Wikipedia",
+          "date": "Today",
+          "timeToRead": 2,
+          "image": "https://image.cnbcfm.com/api/v1/image/106796532-YouTube-Thumbnail-1-jpg?v=1605292417&w=1910&h=1000"
+        }
+      ],
+      "page": "2"
+    },
+
+    {
+      "3": [
+        {
+          "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOPJvR-kaQcRrzFQikt6g94ZSNoXHAW1vtrDuHuzHROHyf6RWRAiL-Y1BRWnVZShZEmT8&usqp=CAU",
+          "title": "React",
+          "description": "React makes it painless to create interactive UIs. Design simple views for each state in your application, and React will efficiently update and render just the right components when your data changes.",
+          "fullLink": "https://reactjs.org/",
+          "creator": "Facebook",
+          "date": "Today",
+          "timeToRead": 2,
+          "image": "https://lh3.googleusercontent.com/proxy/QBm_IzMf-zRHygH9K2izRw6bBNHPvIQ3awFHJUBICWW7FX12CQTxE3nCDcURNBGk9vSxrqWYMsgXvyfWtG10DxLvUZCmHOyOAviyZz-bTVgjaFXG98hh4D-qNbvN"
+        },
+
+        {
+          "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOPJvR-kaQcRrzFQikt6g94ZSNoXHAW1vtrDuHuzHROHyf6RWRAiL-Y1BRWnVZShZEmT8&usqp=CAU",
+          "title": "React",
+          "description": "React makes it painless to create interactive UIs. Design simple views for each state in your application, and React will efficiently update and render just the right components when your data changes.",
+          "fullLink": "https://reactjs.org/",
+          "creator": "Facebook",
+          "date": "Today",
+          "timeToRead": 2,
+          "image": "https://lh3.googleusercontent.com/proxy/QBm_IzMf-zRHygH9K2izRw6bBNHPvIQ3awFHJUBICWW7FX12CQTxE3nCDcURNBGk9vSxrqWYMsgXvyfWtG10DxLvUZCmHOyOAviyZz-bTVgjaFXG98hh4D-qNbvN"
+        },
+
+        {
+          "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOPJvR-kaQcRrzFQikt6g94ZSNoXHAW1vtrDuHuzHROHyf6RWRAiL-Y1BRWnVZShZEmT8&usqp=CAU",
+          "title": "React",
+          "description": "React makes it painless to create interactive UIs. Design simple views for each state in your application, and React will efficiently update and render just the right components when your data changes.",
+          "fullLink": "https://reactjs.org/",
+          "creator": "Facebook",
+          "date": "Today",
+          "timeToRead": 2,
+          "image": "https://lh3.googleusercontent.com/proxy/QBm_IzMf-zRHygH9K2izRw6bBNHPvIQ3awFHJUBICWW7FX12CQTxE3nCDcURNBGk9vSxrqWYMsgXvyfWtG10DxLvUZCmHOyOAviyZz-bTVgjaFXG98hh4D-qNbvN"
+        },
+
+        {
+          "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOPJvR-kaQcRrzFQikt6g94ZSNoXHAW1vtrDuHuzHROHyf6RWRAiL-Y1BRWnVZShZEmT8&usqp=CAU",
+          "title": "React",
+          "description": "React makes it painless to create interactive UIs. Design simple views for each state in your application, and React will efficiently update and render just the right components when your data changes.",
+          "fullLink": "https://reactjs.org/",
+          "creator": "Facebook",
+          "date": "Today",
+          "timeToRead": 2,
+          "image": "https://lh3.googleusercontent.com/proxy/QBm_IzMf-zRHygH9K2izRw6bBNHPvIQ3awFHJUBICWW7FX12CQTxE3nCDcURNBGk9vSxrqWYMsgXvyfWtG10DxLvUZCmHOyOAviyZz-bTVgjaFXG98hh4D-qNbvN"
+        },
+
+        {
+          "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOPJvR-kaQcRrzFQikt6g94ZSNoXHAW1vtrDuHuzHROHyf6RWRAiL-Y1BRWnVZShZEmT8&usqp=CAU",
+          "title": "React",
+          "description": "React makes it painless to create interactive UIs. Design simple views for each state in your application, and React will efficiently update and render just the right components when your data changes.",
+          "fullLink": "https://reactjs.org/",
+          "creator": "Facebook",
+          "date": "Today",
+          "timeToRead": 2,
+          "image": "https://lh3.googleusercontent.com/proxy/QBm_IzMf-zRHygH9K2izRw6bBNHPvIQ3awFHJUBICWW7FX12CQTxE3nCDcURNBGk9vSxrqWYMsgXvyfWtG10DxLvUZCmHOyOAviyZz-bTVgjaFXG98hh4D-qNbvN"
+        },
+
+        {
+          "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOPJvR-kaQcRrzFQikt6g94ZSNoXHAW1vtrDuHuzHROHyf6RWRAiL-Y1BRWnVZShZEmT8&usqp=CAU",
+          "title": "React",
+          "description": "React makes it painless to create interactive UIs. Design simple views for each state in your application, and React will efficiently update and render just the right components when your data changes.",
+          "fullLink": "https://reactjs.org/",
+          "creator": "Facebook",
+          "date": "Today",
+          "timeToRead": 2,
+          "image": "https://lh3.googleusercontent.com/proxy/QBm_IzMf-zRHygH9K2izRw6bBNHPvIQ3awFHJUBICWW7FX12CQTxE3nCDcURNBGk9vSxrqWYMsgXvyfWtG10DxLvUZCmHOyOAviyZz-bTVgjaFXG98hh4D-qNbvN"
+        },
+
+        {
+          "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOPJvR-kaQcRrzFQikt6g94ZSNoXHAW1vtrDuHuzHROHyf6RWRAiL-Y1BRWnVZShZEmT8&usqp=CAU",
+          "title": "React",
+          "description": "React makes it painless to create interactive UIs. Design simple views for each state in your application, and React will efficiently update and render just the right components when your data changes.",
+          "fullLink": "https://reactjs.org/",
+          "creator": "Facebook",
+          "date": "Today",
+          "timeToRead": 2,
+          "image": "https://lh3.googleusercontent.com/proxy/QBm_IzMf-zRHygH9K2izRw6bBNHPvIQ3awFHJUBICWW7FX12CQTxE3nCDcURNBGk9vSxrqWYMsgXvyfWtG10DxLvUZCmHOyOAviyZz-bTVgjaFXG98hh4D-qNbvN"
+        }
+      ],
+      "page": "3"
+    }
+  ]
+}
