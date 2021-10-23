@@ -31,6 +31,7 @@ code {
   width: 300px;
   background-color: white;
   border-radius: 10px;
+  height: 420px;
 }
 
 .image {
@@ -40,6 +41,7 @@ code {
   display: block;
   margin-left: auto;
   margin-right: auto;
+  height: 164px;
 }
 
 .text {
