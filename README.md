@@ -12,7 +12,7 @@ Inorder to run local data mock server, you can run:
 
 ### `cd src`
 
-### `npx json-server --watch`
+### `npx json-server --watch db.json`
 
 In the project directory, you can run:
 
